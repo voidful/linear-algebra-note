@@ -1,4 +1,4 @@
-#### 1-1
+### <u>1-1</u>
 
 linear equation
 
@@ -22,7 +22,7 @@ pivot
 - 在線代裡是指, 化成rref後, 在這種形式下, matrix左下部分都是0, 也就是每一列(row)除了第一列以外, 其他列從左邊看過來都是0, 此時出現第一個非0數字的那個位置, 看起來就像旗標一樣, 帶領著後面數字出現, 所以稱為 pivot
 - 求pivot position : 把matrix化rref, 每一列第一個非0即為pivot position
 
-#### 1-2
+### <u>1-2</u>
 
 linear combination
 
