@@ -31,16 +31,12 @@ matrix-vector product
 span 
 
 - why span?
-  - we want to say " v is a linear combination of u1, u2, u3 " (v可以寫成 u1, u2, u3的線性組合), we can simply say 
-
-```tex
-		$v \in Span\{u1, u2,u3\}$
-```
+  - we want to say " v is a linear combination of u1, u2, u3 " (v可以寫成 u1, u2, u3的線性組合), we can simply say  v is in Span{u1, u2, u3}
 
 - properties :
-  1. Span{0} = {0}
-  2. Span{u} = the set of all multiples of  u (所有u的倍數)
-  3. If S contains a nonzero vector, then Span S has infinitely many vectors.
+  - Span{0} = {0}
+  - Span{u} = the set of all multiples of  u (所有u的倍數)
+  - If S contains a nonzero vector, then Span S has infinitely many vectors.
 
 row euivalent : the solutions are identical
 
