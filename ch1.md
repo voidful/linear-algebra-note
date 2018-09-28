@@ -71,6 +71,3 @@ Rank
 
 - 算到 rref 時, 非 0 列的個數, 其意義為此 linear system 的獨立方程式的個數
 - is same as the number of pivot positions in the matrix! 
-
-
-
