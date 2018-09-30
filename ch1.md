@@ -2,6 +2,7 @@
 Reference
 
 - [Mr. Opengate](http://mropengate.blogspot.com/search/label/Computer%20Science-Linear%20Algebra "link")
+- [rank 由來](https://www.zhihu.com/question/24975154 "link")
 
 ### <u>1-1</u>
 
@@ -82,7 +83,9 @@ Rank 秩
 
   當 matrix 的 rank = n 時(滿秩), 此時這個 matrix 被約束到只有一個點, 
 
-  當 rank 降低時, 方程組的 solution set 也就變大; 反之, rank 越大, 其 solution set 也就被規範的越有序
+  當 rank 降低時, 方程組的 solution set 也就變大, 變成從線到面, 甚至多維的 space;
+
+  反之, rank 越大, 其 solution set 也就被規範的越有序
 
 - is same as the number of pivot positions in the matrix! 
 
@@ -100,7 +103,7 @@ Linear Dependence (L.D.)
 
   - 與其去尋找每個向量(u1, u2,...)是否為其他的向量的 span, 可以反過來思考, 是否能找出一組不全為 0 
 
-    (因為都為 0 組合出來當然為 0 )的係數 c1, c2, ... 使得向量 u1, u2, ... 組合成0
+    (因為都為 0 組合出來當然為 0 )的係數 c1, c2, ... 使得向量 u1, u2, ... 組合成 0
 
     ​	c1 * u1 + c2 * u2 + ..... = 0 
 
