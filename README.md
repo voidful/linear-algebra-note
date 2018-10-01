@@ -12,3 +12,6 @@
 
   - [NTU OCW](http://ocw.aca.ntu.edu.tw/ntu-ocw/ocw/cou/102S207 "link")
 
+- Chapter
+
+  - [Chapter 1](https://github.com/chuang76/linear-algebra-note/blob/master/ch1.md)
